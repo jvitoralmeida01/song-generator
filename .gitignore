@@ -2,7 +2,7 @@
 code/model/data/
 !code/model/data/dataset.js
 !code/model/data/parser.js
-!code/model/data/README.txt
+!code/model/data/README.md
 
 # To ignore everything inside code/model/data/ but not the folder itself
 code/model/data/*
