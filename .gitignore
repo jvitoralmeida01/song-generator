@@ -1,0 +1,12 @@
+# Ignore any folder with numbers inside code/model/data
+code/model/data/
+!code/model/data/dataset.js
+!code/model/data/parser.js
+!code/model/data/README.txt
+
+# To ignore everything inside code/model/data/ but not the folder itself
+code/model/data/*
+!code/model/data/*
+
+# Ignore code/model/node_modules
+code/model/node_modules/
